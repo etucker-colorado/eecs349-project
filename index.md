@@ -9,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Number learning!
 
 
-Link to [report](https://guides.github.com/features/mastering-markdown/).
+Link to [report](https://etucker-colorado.github.io/Number-Learning/).
 
 ### Jekyll Themes
 
