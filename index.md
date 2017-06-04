@@ -12,7 +12,8 @@ Number learning!
 Link to [report](https://etucker-colorado.github.io/Number-Learning/).
 
 
-(10-TWENTYTWENTY.jpg)
+![square](10-TWENTYTWENTY.jpg)
+Format: ![Alt Text](url)
 
 
 
