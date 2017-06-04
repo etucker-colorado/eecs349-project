@@ -12,9 +12,7 @@ Number learning!
 Link to [report](https://etucker-colorado.github.io/Number-Learning/).
 
 
-![square](10-TWENTYTWENTY.jpg)
-Format: ![Alt Text](url)
-
+<img alt="10-TWENTYTWENTY.jpg" src="10-TWENTYTWENTY.jpg" style="width: 20.00px; height: 20.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="">
 
 
 ### Jekyll Themes
