@@ -11,6 +11,10 @@ Number learning!
 
 Link to [report](https://etucker-colorado.github.io/Number-Learning/).
 
+
+![squares](10-TWENTYTWENTY.jpg)
+Format: ![Alt Text](url)
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/etucker-colorado/eecs349-project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
