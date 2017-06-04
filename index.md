@@ -12,8 +12,8 @@ Number learning!
 Link to [report](https://etucker-colorado.github.io/Number-Learning/).
 
 
-![squares](10-TWENTYTWENTY.jpg)
-Format: ![Alt Text](url)
+(10-TWENTYTWENTY.jpg)
+
 
 
 ### Jekyll Themes
