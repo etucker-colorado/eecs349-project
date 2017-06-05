@@ -1,5 +1,6 @@
 ## ELLEN TUCKER
-###EECS 349 Project - Spring 2017
+### "Seeing Number"
+#### EECS 349 Project - Spring 2017
 
 ### Abstract
 
