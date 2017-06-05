@@ -14,7 +14,7 @@ My task was to create a model that could classify an image as the number of obje
 ![figure1](fig2.png)
 
 
-I was interested in comparing the performance between neural networks and instance-based classifiers on this task.  I used WEKA’s implementations of IBk and Multilayer Perceptron networks.  Both techniques ended up doing remarkably well, each attaining cross-validation and holdout testing accuracies of over 93%.
+I was interested in comparing the performance between neural networks and instance-based classifiers on this task.  I used WEKA’s implementations of IBk and Multilayer Perceptron networks.  Both techniques ended up doing remarkably well, each attaining cross-validation and holdout testing accuracies of over 94%.
  
  
  
