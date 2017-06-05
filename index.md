@@ -5,6 +5,9 @@
 
 #### Abstract
 
+![figure1](fig1.png)
+Format: ![Alt Text](url)
+
 My task was to create a classifier that would classify an image as the number of objects that it featured, ranging from 2, 3, or 4 objects.  My project is motivated by psychological research that investigates the development of number concepts in children.  Researchers have gained evidence that infants are able to distinguish between groups of 2, 3 and 4 objects, based on experiments in which infants are shown images similar to those within my generated dataset.  Interestingly, groups containing any more than 4 objects are indistinguishable from each other to infants.  I generated a dataset of images of groups of shapes in various spatial configurations and sizes modeled off of psychological stimulus images, and I experimented with nearest neighbor and multilayer perceptron techniques to classify these images based on the number of shapes each contained.
 
 
