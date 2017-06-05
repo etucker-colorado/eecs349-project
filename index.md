@@ -1,5 +1,5 @@
 ## ELLEN TUCKER
-####EECS 349 Project - Spring 2017
+###EECS 349 Project - Spring 2017
 
 ### Abstract
 
