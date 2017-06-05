@@ -20,6 +20,6 @@ I was interested in comparing the performance between neural networks and instan
  
 
 
-Read my [report](https://etucker-colorado.github.io/Number-Learning/).
+Read my [report](https://etucker-colorado.github.io/seeing-number/).
 
 
